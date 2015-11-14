@@ -74,8 +74,7 @@
 ##### Please, make a decision, based on the following criteria:
 | RoB decision  | Criteria |
 | ------------- |:-------------:| 
-| **Low**      |  No discrepancies between outcomes listed in the protocol and those described in the results.
-No discrepancies between methods section and results section in the study report(s). |
+| **Low**      |  No discrepancies between outcomes listed in the protocol and those described in the results. No discrepancies between methods section and results section in the study report(s). |
 | **Unclear**      | N/A|  
 | **High** | Outcomes are not identified in the protocol or methods section that are not described in the results section of the report. |
 
