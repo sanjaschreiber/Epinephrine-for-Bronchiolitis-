@@ -36,13 +36,9 @@
 ##### Please, make a decision, based on the following criteria: 
 | RoB decision  | Criteria |
 | ------------- |:-------------:| 
-| **Low**      | No blinding or incomplete blinding, but the outcome is unlikely to be influenced by lack of blinding.
-Blinding of participants and key study personnel ensured, and unlikely that the blinding could have been broken.
-Description of “double-blinding” with specification that the participants and study personnel are blinded.
-Description of the use of “double-dummy” or “matched placebo.”|
-| **Unclear**      | Insufficient information to permit judgment. The study did not address blinding. |  
-| **High** | No blinding or incomplete blinding and the outcome is likely to be influenced.
-Blinding attempted, but likely that it could have been broken and the outcome is likely to be influenced.|
+| **Low**      | No blinding or incomplete blinding, but the outcome is unlikely to be influenced by lack of blinding. Blinding of participants and key study personnel ensured, and unlikely that the blinding could have been broken. Description of “double-blinding” with specification that the participants and study personnel are blinded. Description of the use of “double-dummy” or “matched placebo.”|
+| **Unclear** | Insufficient information to permit judgment. The study did not address blinding. | 
+| **High** | No blinding or incomplete blinding and the outcome is likely to be influenced. Blinding attempted, but likely that it could have been broken and the outcome is likely to be influenced.|
 
 #### Blinding of outcome assessment 
 ###### *If 3rd party assessor is not mentioned, use the same assessment as for blinding of participants and personnel. If 3rd party assessor is mentioned, use the following algorithm:*
@@ -64,9 +60,8 @@ Blinding attempted, but likely that it could have been broken and the outcome is
 | RoB decision  | Criteria |
 | ------------- |:-------------:| 
 | **Low**      |  ITT and dropout rate <10% OR No ITT, dropout rate <10%, and number and reasons for withdrawal balanced between groups. |
-| **Unclear**      | ITT and/or dropout rate between 10 and 30%.|  
-| **High** | Dropout rate ≥30% OR Dropout rate <30%, but number and reason for dropouts very imbalanced between groups.
-Per protocol analysis only (unless under of patients switching groups is too small to make any important difference to the estimated intervention effect). |
+| **Unclear**  | ITT and/or dropout rate between 10 and 30%.|  
+| **High** | Dropout rate ≥30% OR Dropout rate <30%, but number and reason for dropouts very imbalanced between groups. Per protocol analysis only (unless under of patients switching groups is too small to make any important difference to the estimated intervention effect). |
 
 #### Selective outcome reporting
 ###### *This domain pertains to the following:*
